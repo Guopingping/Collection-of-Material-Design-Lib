@@ -149,6 +149,7 @@
 * [RevealLayout](https://github.com/kyze8439690/RevealLayout) 
 * [CircularRevealFragment](https://github.com/ferdy182/Android-CircularRevealFragment) 
 * [ViewRevealAnimator](https://github.com/sephiroth74/ViewRevealAnimator)
+
 ### Tricks
 * [Android-ObservableScrollView](https://github.com/ksoichiro/Android-ObservableScrollView) 
 * [ViewPagerHeaderScrollDemo](https://github.com/ongakuer/ViewPagerHeaderScrollDemo)
