@@ -29,9 +29,11 @@
 * [Implementing material design in your Android app](http://android-developers.blogspot.jp/2014/10/implementing-material-design-in-your.html)
 * [Material Design on Android Checklist](http://android-developers.blogspot.jp/2014/10/matb.com/03uk/Rerial-design-on-android-checklist.html)  
 * [android-design-support-library](http://android-developers.blogspot.jp/2015/05/android-design-support-library.html)
+
 #### Translate
 * [进入Material Design时代](http://blog.csdn.net/xushuaic/article/details/40627389)
 * [AppCompat V21：将 Materia Design 兼容到5.0之前的设备](http://blog.csdn.net/xushuaic/article/details/40212327)
+
 ### Personal Blog
 * [How to upgrade your app’s design from Holo to Material Design — A case study](https://medium.com/@orhnsnmz/how-to-upgrade-your-apps-design-from-holo-to-material-design-a-case-study-f77e33a528c8)
 * [My Journey to Lollipop Transitions: part 1](http://jimulabs.com/2014/12/journey-lollipop-transitions-part-1/?utm_source=Android+Weekly&utm_campaign=5b8f334ff8-Android_Weekly_133&utm_medium=email&utm_term=0_4eb677ad19-5b8f334ff8-337298809)
@@ -127,6 +129,7 @@
 
 ### Palette
 * [material-painter](https://github.com/novoda/material-painter)
+
 ### Transition
 * [transitions-everywhere](https://github.com/andkulikov/transitions-everywhere)
 * [PreLollipopTransition](https://github.com/takahirom/PreLollipopTransition)
